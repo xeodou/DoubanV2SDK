@@ -41,3 +41,5 @@ nosetests.xml
 bin/
 gen/
 .DS_Store
+.settings
+.classpath
