@@ -43,3 +43,4 @@ gen/
 .DS_Store
 .settings
 .classpath
+DoubanV2SDK.iml
